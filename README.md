@@ -28,6 +28,6 @@ The multiple 'modalities' are eye gaze and facial expression. The following flow
 <img src="https://drive.google.com/uc?export=view&id=198MYqBsaAH0PyG0KDkasecX1Yi28BhZj" alt="Blinking" width="200"/>
 
 
-***All source code, machine learning models and visualisations available upon request via:*** google drive link
+***All source code, machine learning models and visualisations available upon request via:*** https://drive.google.com/drive/folders/1esImidfNGFnLXvBNv9sHr0bBPLEgwWyj?usp=sharing
 
 ***Eye gaze detection credit: https://github.com/antoinelame/GazeTracking***
