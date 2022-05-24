@@ -19,6 +19,6 @@ This is done completely in python using a variety of data science and machine le
 
 The multiple 'modalities' are eye gaze and facial expression. The following flow chart provides a brief overview - (FER CNN is Facial expression recognition convolutional neural network)
 
-<img src="https://drive.google.com/file/d/1Ws9fISFQKMsdOjrzerc68v7zQXPj_bjN/view" alt="flow chart" width="200"/>
+<img src=https://drive.google.com/uc?export=view&id=/1Ws9fISFQKMsdOjrzerc68v7zQXPj_bjN/view?usp" alt="flow chart" width="200"/>
 
 ***Eye gaze detection credit: https://github.com/antoinelame/GazeTracking***
